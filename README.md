@@ -1,6 +1,19 @@
 # myapp
 
 A new Flutter project.
+# Web 
+
+## Prompt ia
+Crea una aplicación en Flutter para una tienda de arte llamada 'ArtStore' con un diseño en tonos café claro.
+Requisitos de estructura:
+Divide el código en archivos dentro de una carpeta llamada mis_paginas_tab/.
+El archivo principal debe ser un TabbarPage con un menú inferior de 5 opciones: Home, Óleos, Pinceles, Caballetes y Atención.
+Requisitos de diseño:
+Header: Una imagen de fondo (https://raw.githubusercontent.com/GarciaGalaviz0808/imgs/refs/heads/main/header.PNG) con el nombre 'ArtStore' encima en letras blancas grandes.
+Indicador: Debajo del header, un recuadro café oscuro con letras blancas que diga la sección actual (ej: 'SECCIÓN ÓLEOS'). Usa una fuente tipo monospace (estilo máquina de escribir) para este texto.
+Contenido: En el centro de cada pantalla, muestra una imagen de 250x250 píxeles traída desde GitHub.
+Colores: Usa una paleta de colores café (claro para el fondo, oscuro para detalles).
+Entrégame todos los archivos listos para copiar y pegar.
 
 ## Getting Started
 
